@@ -5,3 +5,5 @@
 [Тестовый прогон в формате json](https://github.com/user-attachments/files/17003626/DemoShopping.postman_test_run.json)
 
 [Коллекция CountryInfoServise в Postman](https://www.postman.com/spacecraft-specialist-84767532/workspace/study/collection/36005389-fa17ee72-5370-45ba-ba59-7e54c6944a00?action=share&creator=36005389&active-environment=36005389-df4c953d-3c6c-4ef2-aa54-ae216f2367f4)
+
+[Тест-кейсы в формате pdf](https://github.com/user-attachments/files/17061937/G8-2024-09-19.1.pdf)
